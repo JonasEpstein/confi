@@ -6,11 +6,11 @@ To build on this effort, we updated and edited several original articles and add
 ## Conservation Finance
 Whether in the form of grants or capital budget allocations, public agency funding often fluctuates dramatically with political and financial currents. This long-term unpredictability often motivates businesses, nonprofits, and agencies to seek sustainable funding models and approaches to leverage public and private investments in natural resource conservation and infrastructure.
 
-Conservation finance offers an emerging approach to securing long-term, predictable finance for landscape-scale conservation and forest health projects. Conservation finance also fosters effective collaboration between private and public sectors, creating stakeholders and investors from the pool of project beneficiaries. This innovative strategy achieves multiple goals:
+Conservation finance offers an emerging approach to securing long-term, predictable financial resources for landscape-scale conservation and forest health projects. Conservation finance also fosters effective collaboration between private and public sectors, creating stakeholders and investors from the pool of project beneficiaries. This innovative strategy achieves multiple goals:
 
 Channels capital into conservation projects that offer overlapping triple-bottom-line (ecological, social, and financial) outcomes.
 - Attracts private investment by quantifying ecosystem services to create a value proposition for beneficiaries, who will pay for these benefits.
-- Utilizes partnerships to strengthen the financial foundation for watershed restoration, reforestation, and post-fire recovery.
+- Utilizes robust partnerships to strengthen the financial foundation for watershed restoration, reforestation, and post-fire recovery.
 - Reduces the burden on public budgets and stabilizes irregular funding sources.
 - Increases the pace and scale at which these initiatives are completed.
 - Enables the long-term protection of forests and related natural resources, ensuring their invaluable benefits persist for future generations.
