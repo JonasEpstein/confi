@@ -31,17 +31,19 @@ Following the Introduction, the book contains the following chapters:
 
 **4. Impact Finance**. An impact finance bond case study from Blue Forest.
 
-**5. Fire**. How conservation finance applies to fire and forest health.
+**5. Environmental Markets**. An overview of environmental market opportunities, opportunities and challenges.
 
-**6. NFF**. Placeholder for NFF Chapter
+**6. Fire**. How conservation finance applies to fire and forest health.
 
-**7. Water**. Examples and cases from water and stormwater management.
+**7. NFF**. Placeholder for NFF Chapter
 
-**8. Roadmap**. A roadmap for moving conservation to scale.
+**8. Water**. Examples and cases from water and stormwater management.
 
-**9. Barriers**. The barriers to conservation finance, in particular, getting beyond their novelty.
+**9. Roadmap**. A roadmap for moving conservation to scale.
 
-**10. Resources**. A curated list of resources for conservation finance.
+**10. Barriers**. The barriers to conservation finance, in particular, getting beyond their novelty.
+
+**11. Resources**. A curated list of resources for conservation finance.
 
 ## Acknowledgements
 
